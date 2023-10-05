@@ -2,7 +2,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladJoodi&layout=compact)](https://github.com/MiladJoodi) [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=MiladJoodi)](https://github.com/MiladJoodi)
 
+Hi, I'm Mona. You might recognize me as GitHub's mascot.
 
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
 
 
 <!--
