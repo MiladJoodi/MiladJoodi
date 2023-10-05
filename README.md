@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=deepajarout)](https://github.com/deepajarout)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=MiladJoodi)](https://github.com/MiladJoodi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miladjoodi&layout=compact)](https://github.com/miladjoodi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladJoodi&layout=compact)](https://github.com/MiladJoodi)
 
 
 <!--
