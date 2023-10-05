@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, Front End Developer</h1>
 
 <p align="left">
   <a href="https://codepen.io/miladjoodi" target="blank"
