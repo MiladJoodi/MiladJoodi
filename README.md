@@ -2,13 +2,13 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="winbeta.com@gmail.com" target="blank"
+  <a href="mailto:winbeta.com@gmail.com" target="blank"
     ><img
       align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"
       alt="miladjoodi"
-      height="30"
-      width="40"
+      height="27"
+      width="34"
   /></a>
   <a href="https://twitter.com/milad_joodi" target="blank"
     ></a>
