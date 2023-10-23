@@ -145,14 +145,8 @@
     />
     </a>
 
-     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ4W-JdelQh2UzVHYYHtZ2La9spZt9u2pV3H2F1hgk8-pb7eu3SMBWqYBvKkCwDXZnh4A&usqp=CAU"
-      alt="css3"
-      width="27"
-      height="40"
-    />
-    </a>
+
+    
 
 
 </p>
