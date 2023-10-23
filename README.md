@@ -134,8 +134,6 @@
     </a>
 
 
-
-
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png"
@@ -144,6 +142,17 @@
       height="40"
     />
     </a>
+
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ4W-JdelQh2UzVHYYHtZ2La9spZt9u2pV3H2F1hgk8-pb7eu3SMBWqYBvKkCwDXZnh4A&usqp=CAU"
+      alt="css3"
+      width="65"
+      height="45"
+    />
+    </a>
+
 
 
     
