@@ -153,6 +153,16 @@
     />
     </a>
 
+    
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://whatthelogo.com/storage/logos/redux-270508.png"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+    </a>
+
 
 
     
