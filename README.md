@@ -59,7 +59,15 @@
     />
   </a>
 
-
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://whatthelogo.com/storage/logos/redux-270508.png"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+    </a>
+    
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -105,7 +113,7 @@
   </a>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<a href="https://www.javascript.com/">
 <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
   alt="javascript"
@@ -124,7 +132,7 @@
   />
 </a>
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://css3.com/">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
@@ -134,7 +142,7 @@
     </a>
 
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://www.figma.com/c">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png"
       alt="css3"
@@ -144,7 +152,7 @@
     </a>
 
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://regexr.com/">
     <img
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ4W-JdelQh2UzVHYYHtZ2La9spZt9u2pV3H2F1hgk8-pb7eu3SMBWqYBvKkCwDXZnh4A&usqp=CAU"
       alt="css3"
@@ -154,14 +162,7 @@
     </a>
 
     
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://whatthelogo.com/storage/logos/redux-270508.png"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-    </a>
+
 
 
 
