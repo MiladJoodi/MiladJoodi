@@ -48,7 +48,14 @@
 <p align="left">
 
 
-
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/next-js-logo-freelogovectors.net_.png"
+      alt="أNext"
+      width="70"
+      height="50"
+    />
+  </a>
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
