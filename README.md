@@ -148,6 +148,14 @@
     />
     </a>
 
+  <a href="https://wordpress.org/">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"
+      alt="css3"
+      width="43"
+      height="43"
+    />
+    </a>
 
   <a href="https://www.figma.com/c">
     <img
