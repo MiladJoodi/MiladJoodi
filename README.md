@@ -13,7 +13,7 @@
   <a href="https://twitter.com/milad_joodi" target="blank"
     ></a>
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/miladjoodi/"
+    href="https://www.linkedin.com/in/miladjoodi/"
     target="blank"
     ><img
       align="center"
