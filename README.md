@@ -182,7 +182,7 @@
 <h3 align="left">Tools</h3>
 <p align="left">
   
-  <a href="https://regexr.com/">
+  <a href="https://react.i18next.com/">
     <img
       src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4"
       alt="css3"
