@@ -110,6 +110,18 @@
       height="40"
     />
   </a>
+
+
+    <a href="https://lesscss.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://lesscss.org/public/img/less_logo.png"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
