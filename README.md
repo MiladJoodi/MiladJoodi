@@ -112,12 +112,12 @@
   </a>
 
 
-    <a href="https://lesscss.org/" target="_blank" rel="noreferrer">
+  <a href="https://lesscss.org" target="_blank" rel="noreferrer">
     <img
       src="https://lesscss.org/public/img/less_logo.png"
       alt="sass"
-      width="40"
-      height="40"
+      width="60"
+      height="35"
     />
   </a>
 
