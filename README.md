@@ -69,7 +69,6 @@
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img
       src="https://whatthelogo.com/storage/logos/redux-270508.png"
-      alt="css3"
       width="40"
       height="40"
     />
@@ -78,7 +77,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
       width="40"
       height="40"
     />
@@ -154,16 +152,23 @@
   <a href="https://css3.com/">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
       width="40"
       height="40"
     />
     </a>
 
+  <a href="https://brand.jquery.org">
+    <img
+      src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jquery_logo_icon_167804.png"
+      width="35"
+      height="40"
+    />
+    </a>
+    
+
   <a href="https://wordpress.org/">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"
-      alt="css3"
       width="43"
       height="43"
     />
