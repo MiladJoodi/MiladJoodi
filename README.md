@@ -198,13 +198,21 @@
 
 <h3 align="left">Tools</h3>
 <p align="left">
-  
+
   <a href="https://react.i18next.com/">
     <img
       src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4"
       alt="css3"
-      width="65"
-      height="45"
+      width="50"
+      height="35"
+    />
+    </a>
+  
+  <a href="https://www.npmjs.com/package/react-query">
+    <img
+      src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png"
+      width="40"
+      height="40"
     />
     </a>
     
