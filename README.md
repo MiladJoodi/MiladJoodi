@@ -203,7 +203,7 @@
     <img
       src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4"
       alt="css3"
-      width="50"
+      width="45"
       height="35"
     />
     </a>
