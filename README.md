@@ -196,7 +196,7 @@
 
 </p>
 
-<h3 align="left">Tools</h3>
+<h3 align="left">Packages</h3>
 <p align="left">
 
   <a href="https://react.i18next.com/">
