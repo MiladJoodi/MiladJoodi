@@ -229,5 +229,13 @@
       height="40"
     />
     </a>
+
+  <a href="https://styled-components.com/">
+    <img
+      src="https://s30.picofile.com/file/8471888342/styled.png"
+      width="65"
+      height="50"
+    />
+  </a>
     
 </p>
