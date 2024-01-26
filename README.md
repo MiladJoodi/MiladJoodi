@@ -237,5 +237,14 @@
       height="47"
     />
   </a>
+  
+
+  <a href="https://styled-components.com/">
+    <img
+      src="https://media.licdn.com/dms/image/D4D12AQHW9aRSWIOMxQ/article-cover_image-shrink_600_2000/0/1657421703592?e=2147483647&v=beta&t=nKygyfSDFwgPdEoC-nEkogMS0527SBa8z8D_FqUr-us"
+      width="45"
+      height="45"
+    />
+  </a>
     
 </p>
