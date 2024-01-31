@@ -198,12 +198,21 @@
 
 <p>
 
-  <a href="https://www.mongodb.com/">
+<a href="https://www.mongodb.com/">
     <img
       src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png"
       alt="css3"
       width="45"
       height="45"
+    />
+    </a>
+
+  <a href="https://mongoosejs.com/docs/">
+    <img
+      src="https://s30.picofile.com/file/8472106468/mongoose.jpg"
+      alt="css3"
+      width="150"
+      height=45"
     />
     </a>
 </p>
