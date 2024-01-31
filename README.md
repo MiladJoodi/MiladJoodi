@@ -211,8 +211,8 @@
     <img
       src="https://s30.picofile.com/file/8472106468/mongoose.jpg"
       alt="css3"
-      width="150"
-      height=45"
+      width="120"
+      height=30"
     />
     </a>
 </p>
