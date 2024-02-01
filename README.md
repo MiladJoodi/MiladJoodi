@@ -207,7 +207,7 @@
     />
     </a>
 
-<a href="https://www.mongodb.com/">
+<a href="https://www.prisma.io/">
     <img
       src="https://s31.picofile.com/file/8472136242/prisma.jpg"
       width="35"
