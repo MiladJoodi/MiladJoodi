@@ -238,11 +238,21 @@
       height="35"
     />
     </a>
-  
-  <a href="https://www.npmjs.com/package/react-query">
+
+    
+   <a href="https://www.npmjs.com/package/react-query">
     <img
       src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png"
       width="40"
+      height="40"
+    />
+    </a>
+
+    
+  <a href="https://www.npmjs.com/package/zustand">
+    <img
+      src="https://s30.picofile.com/file/8472141600/zustand.jpg"
+      width="55"
       height="40"
     />
     </a>
