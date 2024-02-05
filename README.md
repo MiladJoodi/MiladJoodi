@@ -183,6 +183,14 @@
     />
     </a>
 
+ <a href="https://www.adobe.com/products/photoshop.html">
+    <img
+      src="https://s31.picofile.com/file/8472247526/ps.png"
+      alt="css3"
+      width="38"
+      height="38"
+    />
+    </a>
 
   <a href="https://regexr.com/">
     <img
