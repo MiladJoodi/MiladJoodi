@@ -281,5 +281,13 @@
       height="45"
     />
   </a>
+
+  <a href="https://next-auth.js.org/">
+    <img
+      src="https://next-auth.js.org/img/logo/logo-sm.png"
+      width="35"
+      height="39"
+    />
+  </a>
     
 </p>
