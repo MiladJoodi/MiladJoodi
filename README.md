@@ -247,7 +247,7 @@
     />
     </a>
 
-<a href="https://www.npmjs.com/package/react-query">
+<a href="https://axios-http.com/">
     <img
       src="https://s31.picofile.com/file/8472349050/axi.png"
       width="25"
