@@ -247,6 +247,13 @@
     />
     </a>
 
+<a href="https://www.npmjs.com/package/react-query">
+    <img
+      src="https://s31.picofile.com/file/8472349050/axi.png"
+      width="25"
+      height="35"
+    />
+    </a>
     
    <a href="https://www.npmjs.com/package/react-query">
     <img
