@@ -93,10 +93,10 @@
 
 <a href="https://mdbootstrap.com/" target="_blank" rel="noreferrer" >
 <img
-  src="https://mdbcdn.b-cdn.net/img/logo/mdb-transaprent-noshadows.webp"
+  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png"
   alt="Material Ui"
-  width="50"
-  height="30"
+  width="42"
+  height="34"
 />
 </a>
 
