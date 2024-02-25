@@ -242,7 +242,7 @@
 
 
 
-<h3 align="left">Packages</h3>
+<h3 align="left">Other</h3>
 <p align="left">
 
   <a href="https://react.i18next.com/">
@@ -295,12 +295,20 @@
       height="45"
     />
   </a>
-
-  <a href="https://next-auth.js.org/">
+  
+<a href="https://next-auth.js.org/">
     <img
       src="https://next-auth.js.org/img/logo/logo-sm.png"
       width="35"
       height="39"
+    />
+  </a>
+  
+  <a href="https://ui.aceternity.com/">
+    <img
+      src="https://ui.aceternity.com/_next/image?url=%2Flogo.png&w=64&q=75"
+      width="35"
+      height="37"
     />
   </a>
     
