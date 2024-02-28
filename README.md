@@ -242,7 +242,7 @@
 
 
 
-<h3 align="left">Other</h3>
+<h3 align="left">Experience working with:</h3>
 <p align="left">
 
   <a href="https://react.i18next.com/">
