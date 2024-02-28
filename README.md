@@ -311,5 +311,13 @@
       height="37"
     />
   </a>
+  
+   <a href="https://www.flowbite-react.com/">
+    <img
+      src="https://www.flowbite-react.com/favicon.svg"
+      width="35"
+      height="37"
+    />
+  </a>
     
 </p>
