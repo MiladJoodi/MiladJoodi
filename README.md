@@ -44,7 +44,7 @@ I'm Joodi 🤝</h1>
 
 • 🌱 [Responsive Portfolio](https://portfolio-2-plum-eta.vercel.app/) - Next js, Tailwind & Aceternity.
 
-• 👨‍💻 [Explore Anime](https://anime-nextjs-blond.vercel.app/) - Next js SSR with Server Actions, Infinite Scroll & Framer.
+• 👨‍💻 [Explore Anime](https://anime-nextjs-blond.vercel.app/) - Next js SSR with Server Actions, Infinite Scroll & Framer Motion.
 
 • 👨‍💻 [Multi Language Biography](https://anime-nextjs-blond.vercel.app/) - Typescript & Tailwind css
 
