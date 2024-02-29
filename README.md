@@ -93,7 +93,7 @@ admin dashboard
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3521774-2945272.png?f=webp"
       alt="أNext"
       width="40"
       height="40"
