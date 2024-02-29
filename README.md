@@ -1,6 +1,8 @@
 
 
-![](https://camo.githubusercontent.com/938bd6e40e95bcacecea12bb26a6aa9bc6f32f36d7ec2744df5248903b5a57b8/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f6d5432504e653536314b6f3757646c35365971547a685954546b727765312d6e5f454f5f315531305750452f72733a6669743a313230303a3834303a312f673a63652f6148523063484d364c79397a644746302f61574d784c6d316861325631633256762f5a6d6c745957646c6379356a623230762f643239795a4842795a584e7a4c3364772f4c574e76626e526c626e5176645842732f6232466b637938794d4445344c7a45782f4c325268636d737464324673624842682f6347567963793571634763)
+
+<kbd><img src="https://camo.githubusercontent.com/938bd6e40e95bcacecea12bb26a6aa9bc6f32f36d7ec2744df5248903b5a57b8/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f6d5432504e653536314b6f3757646c35365971547a685954546b727765312d6e5f454f5f315531305750452f72733a6669743a313230303a3834303a312f673a63652f6148523063484d364c79397a644746302f61574d784c6d316861325631633256762f5a6d6c745957646c6379356a623230762f643239795a4842795a584e7a4c3364772f4c574e76626e526c626e5176645842732f6232466b637938794d4445344c7a45782f4c325268636d737464324673624842682f6347567963793571634763" /></kbd>
+
 
 <h1 align="center" style="color: #4D4D4D; font-family: calibri; font-size: 2.5em;">Hi 👋,
 I'm Joodi 🤝</h1> 
@@ -36,11 +38,11 @@ I'm Joodi 🤝</h1>
 [![trophy](https://github-profile-trophy.vercel.app/?username=miladjoodi&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-• 🔭 [Responsive ECommerce pizza website](https://e-commerce-pizza-website.vercel.app/) using Next js 14 & Tailwind css.
+• 🔭 [Responsive ECommerce pizza website](https://e-commerce-pizza-website.vercel.app/) - Next js 14 & Tailwind css.
 
-• 🌱 [Responsive Portfolio](https://portfolio-2-plum-eta.vercel.app/) using Next js, Tailwind & Aceternity.
+• 🌱 [Responsive Portfolio](https://portfolio-2-plum-eta.vercel.app/) - Next js, Tailwind & Aceternity.
 
-• 👨‍💻 [Explore Anime](https://anime-nextjs-blond.vercel.app/) Next js SSR with Server Actions, Infinite Scroll & Framer.
+• 👨‍💻 [Explore Anime](https://anime-nextjs-blond.vercel.app/) - Next js SSR with Server Actions, Infinite Scroll & Framer.
 
 • 👨‍💻 [Multi Language Biography](https://anime-nextjs-blond.vercel.app/) - Typescript & Tailwind css
 
