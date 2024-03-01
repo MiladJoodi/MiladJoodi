@@ -38,7 +38,7 @@ I'm Joodi 🤝</h1>
 [![trophy](https://github-profile-trophy.vercel.app/?username=miladjoodi&theme=flat)](https://github.com/MiladJoodi)
 
 
-<h3 align="left">📜 The latest exercises:</h3>
+<h3 align="left" align="center" style="color: #4D4D4D; font-family: calibri; font-size: 2.5em;">📜 The Latest Experiences:</h3>
 
 
  ✔ [Real E-State Website](https://real-estate-theta-gray.vercel.app/) - Typescript, Next js & Tailwind css.
