@@ -394,10 +394,17 @@ admin dashboard
       height="35"
     />
   </a>
-  <a href="https://ui.shadcn.com/">
+  <a href="https://headlessui.com/">
     <img
       src="https://s30.picofile.com/file/8473048876/headl.png"
-      width="39"
+      width="38"
+      height="40"
+    />
+  </a>
+  <a href="https://clerk.com/">
+    <img
+      src="https://camo.githubusercontent.com/3b900b4e92e96c14c9e00818d9bd3a97d8b9de9344be4f5455113ac3f85eced8/68747470733a2f2f696d616765732e636c65726b2e636f6d2f7374617469632f6c6f676f2d6c696768742d6d6f64652d343030783430302e706e67"
+      width="41"
       height="41"
     />
   </a>
