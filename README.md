@@ -91,7 +91,7 @@ admin dashboard
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<a href="https://www.typescriptlang.org/">
     <img
       src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3521774-2945272.png?f=webp"
       alt="أNext"
