@@ -38,17 +38,20 @@ I'm Joodi 🤝</h1>
 [![trophy](https://github-profile-trophy.vercel.app/?username=miladjoodi&theme=flat)](https://github.com/MiladJoodi)
 
 
-• 🔭 [Responsive ECommerce Pizza Website](https://e-commerce-pizza-website.vercel.app/) - Next js 14 & Tailwind css.
+<h3 align="left">📜 The latest exercises:</h3>
 
-• 🌱 [Highly Responsive Website](https://highly-responsive-website.vercel.app/) - React js & Tailwind css.
 
-• 🌱 [Responsive Portfolio](https://portfolio-2-plum-eta.vercel.app/) - Next js, Tailwind & Aceternity.
+ ✔ [Real E-State Website](https://real-estate-theta-gray.vercel.app/) - Typescript, Next js & Tailwind css.
 
-• 👨‍💻 [Explore Anime](https://anime-nextjs-blond.vercel.app/) - Next js SSR with Server Actions, Infinite Scroll & Framer Motion.
+ ✔ [ECommerce Pizza Website](https://e-commerce-pizza-website.vercel.app/) - Next js & Tailwind css.
 
-• 👨‍💻 [Multi Language Biography](https://anime-nextjs-blond.vercel.app/) - Typescript & Tailwind css
+ ✔ [Highly Responsive Website](https://highly-responsive-website.vercel.app/) - React js & Tailwind css.
 
-admin dashboard
+ ✔ [Responsive Portfolio](https://portfolio-2-plum-eta.vercel.app/) - Next js, Tailwind & Aceternity.
+
+ ✔ [Explore Anime](https://anime-nextjs-blond.vercel.app/) - Next js SSR with Server Actions, Infinite Scroll & Framer Motion.
+
+ ✔ [Multi Language Biography](https://anime-nextjs-blond.vercel.app/) - Typescript & Tailwind css
 
 
 
