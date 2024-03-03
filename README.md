@@ -38,7 +38,9 @@ I'm Joodi 🤝</h1>
 [![trophy](https://github-profile-trophy.vercel.app/?username=miladjoodi&theme=flat)](https://github.com/MiladJoodi)
 
 
-<h3 align="left" align="center" style="color: #4D4D4D; font-family: calibri; font-size: 2.5em;">📜 The Latest Experiences:</h3>
+<h3 align="left" align="center" style="color: #4D4D4D; font-family: calibri;">📜 The Latest Experiences:</h3>
+
+
 
 
  ✔ [Real E-State Website](https://real-estate-theta-gray.vercel.app/) - Typescript, Next js & Tailwind css.
@@ -410,6 +412,14 @@ I'm Joodi 🤝</h1>
       height="41"
     />
   </a>
+  <a href="https://strapi.io/">
+    <img
+      src="https://s30.picofile.com/file/8473142968/strapi.png"
+      width="41"
+      height="41"
+    />
+  </a>
+  
   
 </p>
 
