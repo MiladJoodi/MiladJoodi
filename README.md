@@ -19,7 +19,7 @@ I'm Joodi 🤝</h1>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=miladjoodi&show_icons=true&locale=en&layout=compact"
-    alt="miladjoodi"
+    alt="Miladjoodi"
   />
 </p>
 
