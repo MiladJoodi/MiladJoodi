@@ -42,7 +42,7 @@ I'm Joodi 🤝</h1>
 
 
 
- ✔ [Doctor Appointment Booking App](https://doctor-appointment-booking-coral.vercel.app/) - Next js & Tailwind css.
+ ✔ [Doctor Appointment Booking App](https://doctor-appointment-booking-coral.vercel.app/) - Next js, Tailwind css & Shadcn.
  
  ✔ [Real E-State Website](https://real-estate-theta-gray.vercel.app/) - Typescript, Next js & Tailwind css.
 
