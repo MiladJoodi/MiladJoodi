@@ -42,9 +42,9 @@ I'm Joodi 🤝</h1>
 
 
 
- ✔ [Doctor Appointment Booking App](https://doctor-appointment-booking-coral.vercel.app/) - Next js, Tailwind css & Shadcn.
+ ✔ [Doctor Appointment Booking App](https://doctor-appointment-booking-coral.vercel.app/) - Next js & Tailwind css.
  
- ✔ [Real E-State Website](https://real-estate-theta-gray.vercel.app/) - Typescript, Next js, Tailwind css & & Shadcn.
+ ✔ [Real E-State Website](https://real-estate-theta-gray.vercel.app/) - Typescript, Next js & Tailwind css.
 
  ✔ [ECommerce Pizza Website](https://e-commerce-pizza-website.vercel.app/) - Next js & Tailwind css.
 
@@ -148,14 +148,6 @@ I'm Joodi 🤝</h1>
   />
 </a>
 
-<a href="https://mdbootstrap.com/" target="_blank" rel="noreferrer" >
-<img
-  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png"
-  alt="Material Ui"
-  width="42"
-  height="34"
-/>
-</a>
 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
@@ -179,10 +171,10 @@ I'm Joodi 🤝</h1>
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png"
       alt="bootstrap"
-      width="40"
-      height="40"
+      width="42"
+      height="34"
     />
   </a>
 </a>
@@ -249,14 +241,7 @@ I'm Joodi 🤝</h1>
     />
     </a>
 
-  <a href="https://regexr.com/">
-    <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ4W-JdelQh2UzVHYYHtZ2La9spZt9u2pV3H2F1hgk8-pb7eu3SMBWqYBvKkCwDXZnh4A&usqp=CAU"
-      alt="css3"
-      width="65"
-      height="45"
-    />
-    </a>
+  
 
 
 </p>
@@ -325,6 +310,14 @@ I'm Joodi 🤝</h1>
       height="35"
     />
     </a>
+    <a href="https://regexr.com/">
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ4W-JdelQh2UzVHYYHtZ2La9spZt9u2pV3H2F1hgk8-pb7eu3SMBWqYBvKkCwDXZnh4A&usqp=CAU"
+      alt="css3"
+      width="65"
+      height="45"
+    />
+    </a>
     
    <a href="https://www.npmjs.com/package/react-query">
     <img
@@ -375,7 +368,14 @@ I'm Joodi 🤝</h1>
       height="37"
     />
   </a>
-  
+  <a href="https://mdbootstrap.com/" target="_blank" rel="noreferrer" >
+<img
+  src="https://mdbcdn.b-cdn.net/img/logo/mdb-transaprent-noshadows.webp"
+  alt="Material Ui"
+  width="60"
+  height="32"
+/>
+</a>
    <a href="https://www.flowbite-react.com/">
     <img
       src="https://www.flowbite-react.com/favicon.svg"
