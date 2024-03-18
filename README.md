@@ -41,18 +41,19 @@ I'm Joodi 🤝</h1>
 <h3 align="left" align="center" style="color: #4D4D4D; font-family: calibri;">📜 The Latest Experiences:</h3>
 
 
-
- ✔ [Doctor Appointment Booking App](https://doctor-appointment-booking-coral.vercel.app/) - Next js & Tailwind css.
+ ✔ [Restaurant Food Delivery App](https://restaurant-food-delivery-app.vercel.app/) - Typescript, Next js & Tailwind css.
  
- ✔ [Real E-State Website](https://real-estate-theta-gray.vercel.app/) - Typescript, Next js & Tailwind css.
+ ✔ [Doctor Appointment Booking App](https://doctor-appointment-booking-coral.vercel.app/) - Next.js & Tailwind css.
+ 
+ ✔ [Real E-State Website](https://real-estate-theta-gray.vercel.app/) - Typescript, Next.js & Tailwind css.
 
- ✔ [ECommerce Pizza Website](https://e-commerce-pizza-website.vercel.app/) - Next js & Tailwind css.
+ ✔ [ECommerce Pizza Website](https://e-commerce-pizza-website.vercel.app/) - Next.js & Tailwind css.
 
  ✔ [Highly Responsive Website](https://highly-responsive-website.vercel.app/) - React js & Tailwind css.
 
- ✔ [Responsive Portfolio](https://portfolio-2-plum-eta.vercel.app/) - Next js, Tailwind & Aceternity.
+ ✔ [Responsive Portfolio](https://portfolio-2-plum-eta.vercel.app/) - Next.js, Tailwind & Aceternity.
 
- ✔ [Explore Anime](https://anime-nextjs-blond.vercel.app/) - Next js SSR with Server Actions, Infinite Scroll & Framer Motion.
+ ✔ [Explore Anime](https://anime-nextjs-blond.vercel.app/) - Next.js SSR with Server Actions, Infinite Scroll & Framer Motion.
 
 
 
@@ -278,13 +279,6 @@ I'm Joodi 🤝</h1>
       src="https://s30.picofile.com/file/8472106468/mongoose.jpg"
       width="120"
       height=30"
-    />
-    </a>
-     <a href="">
-    <img
-      src="https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"
-      width="35"
-      height=35"
     />
     </a>
 </p>
