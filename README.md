@@ -4,8 +4,8 @@
 <kbd><img src="https://media.licdn.com/dms/image/D4D16AQHqB2b0E4ciSQ/profile-displaybackgroundimage-shrink_350_1400/0/1710932720163?e=1716422400&v=beta&t=s5-Q4Pj5q04cxtQk9sr56fVIhQxP5Rq4E7Mr1E6gnwM" /></kbd>
 
 
-<h1 align="center" style="color: #4D4D4D; font-family: calibri; font-size: 2.5em;">Hi 👋
-I'm Joodi 🤝</h1> 
+<h1 align="center" style="color: #4D4D4D; font-family: calibri; font-size: 2.5em;">
+I'm Joodi 👋🤝</h1> 
 
 
 <h3 align="center" align="center" style="color: #4D4D4D; font-family: calibri; font-size: 1.5em;">A Web Developer with agog appetite of Coding!</h3> 
