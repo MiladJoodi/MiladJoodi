@@ -249,6 +249,14 @@ I'm Joodi 👋🤝</h1>
 
 <p>
 
+<a href="https://www.postgresql.org/">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png"
+      width="36"
+      height="38"
+    />
+    </a>
+    
 <a href="https://www.mongodb.com/">
     <img
       src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png"
@@ -401,7 +409,7 @@ I'm Joodi 👋🤝</h1>
     />
   </a>
   <a href="https://clerk.com/">
-    <img
+    <imgmo
       src="https://camo.githubusercontent.com/3b900b4e92e96c14c9e00818d9bd3a97d8b9de9344be4f5455113ac3f85eced8/68747470733a2f2f696d616765732e636c65726b2e636f6d2f7374617469632f6c6f676f2d6c696768742d6d6f64652d343030783430302e706e67"
       width="41"
       height="41"
