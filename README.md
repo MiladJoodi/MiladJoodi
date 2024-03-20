@@ -8,7 +8,7 @@
 I'm Joodi 🤝</h1> 
 
 
-<h3 align="center" align="center" style="color: #4D4D4D; font-family: calibri; font-size: 1.5em;">A Web Developer with agog appetite of Coding!!</h3> 
+<h3 align="center" align="center" style="color: #4D4D4D; font-family: calibri; font-size: 1.5em;">A Web Developer with agog appetite of Coding!</h3> 
 
 
 ![](https://komarev.com/ghpvc/?username=miladjoodi&color=blue)
