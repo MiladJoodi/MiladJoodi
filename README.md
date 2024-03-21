@@ -249,6 +249,14 @@ Howdy 👋 I'm Joodi 🤝</h1>
 
 <p>
 
+<a href="https://strapi.io/">
+    <img
+      src="https://s30.picofile.com/file/8473142968/strapi.png"
+      width="41"
+      height="41"
+    />
+  </a>
+  
 <a href="https://www.postgresql.org/">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png"
@@ -415,13 +423,7 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="41"
     />
   </a>
-  <a href="https://strapi.io/">
-    <img
-      src="https://s30.picofile.com/file/8473142968/strapi.png"
-      width="41"
-      height="41"
-    />
-  </a>
+  
   
   
 </p>
