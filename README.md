@@ -386,16 +386,15 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="37"
     />
   </a>
-
-
-
-      <a href="https://ui.shadcn.com/">
+     <a href="https://ui.shadcn.com/">
     <img
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdvQ8P74Q9qIdvz32mDGS6HbBAffF8QUICbBl-jON5Aq3Fqc3uKS9qYdc8NJmr3kSlCN8&usqp=CAU"
       width="35"
-      height="35"
+      height="37"
     />
   </a>
+
+
   <a href="https://headlessui.com/">
     <img
       src="https://s30.picofile.com/file/8473048876/headl.png"
