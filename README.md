@@ -378,14 +378,7 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="37"
     />
   </a>
-  <a href="https://mdbootstrap.com/" target="_blank" rel="noreferrer" >
-<img
-  src="https://mdbcdn.b-cdn.net/img/logo/mdb-transaprent-noshadows.webp"
-  alt="Material Ui"
-  width="60"
-  height="32"
-/>
-</a>
+
    <a href="https://www.flowbite-react.com/">
     <img
       src="https://www.flowbite-react.com/favicon.svg"
@@ -393,6 +386,7 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="37"
     />
   </a>
+
 
 
       <a href="https://ui.shadcn.com/">
