@@ -65,7 +65,7 @@ Howdy 👋 I'm Joodi 🤝</h1>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="mailto:winbeta.com@gmail.com" target="blank"
+  <a href="mailto:miladjoodi1@gmail.com" target="blank"
     ><img
       align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"
