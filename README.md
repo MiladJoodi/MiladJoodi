@@ -44,6 +44,8 @@ Howdy 👋 I'm Joodi 🤝</h1>
  ✔ [Mini University Details App](https://github.com/MiladJoodi/Coursera_News_App) - Next.js , Tailwind.css and Clerk for auth.
 
  ✔ [Job Finder App](https://github.com/MiladJoodi/Job_Finder_React_js_Tailwind_css) - React.js & Tailwind css
+
+  ✔ [Online Glocery Store](https://github.com/MiladJoodi/Online_Glocery_Store_Next.js_Tailwind_Strapi) - Full-stack Online Grocery Store app using Next.js, Strapi, Tailwind css & Shadcn Ui.
  
  ✔ [Restaurant Food Delivery App](https://restaurant-food-delivery-app.vercel.app/) - Typescript, Next js & Tailwind css.
  
