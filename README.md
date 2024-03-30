@@ -370,7 +370,13 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="39"
     />
   </a>
-  
+    <a href="https://strapi.io/">
+    <img
+      src="https://pipedream.com/s.v0/app_dBhw8k/logo/orig"
+      width="38"
+      height="38"
+    />
+  </a>
   <a href="https://ui.aceternity.com/">
     <img
       src="https://ui.aceternity.com/_next/image?url=%2Flogo.png&w=64&q=75"
