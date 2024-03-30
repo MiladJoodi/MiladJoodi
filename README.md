@@ -41,9 +41,9 @@ Howdy 👋 I'm Joodi 🤝</h1>
 <h3 align="left" align="center" style="color: #4D4D4D; font-family: calibri;">📜 The Latest Experiences:</h3>
 
 
- ✔ [Mini University details app](https://github.com/MiladJoodi/Coursera_News_App) - Next.js , Tailwind.css and Clerk for auth.
+ ✔ [Mini University Details App](https://github.com/MiladJoodi/Coursera_News_App) - Next.js , Tailwind.css and Clerk for auth.
 
- ✔ [Job Finder](https://github.com/MiladJoodi/Job_Finder_React_js_Tailwind_css) - React.js & Tailwind css
+ ✔ [Job Finder App](https://github.com/MiladJoodi/Job_Finder_React_js_Tailwind_css) - React.js & Tailwind css
  
  ✔ [Restaurant Food Delivery App](https://restaurant-food-delivery-app.vercel.app/) - Typescript, Next js & Tailwind css.
  
