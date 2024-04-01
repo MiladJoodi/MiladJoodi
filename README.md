@@ -87,16 +87,7 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="30"
       width="40"
   /></a>    
-  <a
-    href="https://www.facebook.com/miladjood/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Milad's Linkedin"
-      height="30"
-      width="30"
-  /></a>
+
 </p>
 
 
