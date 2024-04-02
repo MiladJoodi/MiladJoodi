@@ -294,6 +294,13 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height=30"
     />
     </a>
+    <a href="https://www.npmjs.com/package/zod">
+    <img
+      src="https://raw.githubusercontent.com/colinhacks/zod/HEAD/logo.svg"
+      width="38"
+      height="38"
+    />
+  </a>
 </p>
 
 
