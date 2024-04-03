@@ -291,7 +291,7 @@ Howdy 👋 I'm Joodi 🤝</h1>
     <img
       src="https://s30.picofile.com/file/8472106468/mongoose.jpg"
       width="120"
-      height=30"
+      height="30"
     />
     </a>
     <a href="https://www.npmjs.com/package/zod">
