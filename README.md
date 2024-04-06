@@ -38,6 +38,12 @@ Howdy 👋 I'm Joodi 🤝</h1>
 
 <h3 align="left" align="center" style="color: #4D4D4D; font-family: calibri;">📜 The Latest Experiences:</h3>
 
+ <img
+      src="https://s31.picofile.com/file/8474119300/blue.png"
+      alt="أNext"
+      width="18"
+      height="18"
+    /> [Joodi.me !](https://github.com/MiladJoodi/Coursera_News_App)
 
  ✔ [Mini University Details App](https://github.com/MiladJoodi/Coursera_News_App) - Next.js , Tailwind.css and Clerk for auth.
 
