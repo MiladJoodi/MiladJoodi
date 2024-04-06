@@ -43,7 +43,7 @@ Howdy 👋 I'm Joodi 🤝</h1>
       alt="أNext"
       width="18"
       height="18"
-    /> [Joodi.me !](https://joodi.me/)
+    /> [Joodi.me](https://joodi.me/)
 
  ✔ [Mini University Details App](https://github.com/MiladJoodi/Coursera_News_App) - Next.js , Tailwind.css and Clerk for auth.
 
