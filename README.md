@@ -378,10 +378,17 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="39"
     />
   </a>
-    <a href="https://strapi.io/">
+    <a href="https://clerk.com/">
     <img
       src="https://pipedream.com/s.v0/app_dBhw8k/logo/orig"
       width="38"
+      height="38"
+    />
+  </a>
+   <a href="https://kinde.com/">
+    <img
+      src="https://s31.picofile.com/file/8474203634/kindde.jpg"
+      width="60"
       height="38"
     />
   </a>
@@ -414,6 +421,13 @@ Howdy 👋 I'm Joodi 🤝</h1>
       src="https://s30.picofile.com/file/8473048876/headl.png"
       width="38"
       height="40"
+    />
+  </a>
+  <a href="https://www.framer.com/motion/">
+    <img
+      src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png"
+      width="37"
+      height="37"
     />
   </a>
   <a href="https://docusaurus.io/">
