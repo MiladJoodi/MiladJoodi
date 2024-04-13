@@ -36,34 +36,12 @@ Howdy 👋 I'm Joodi 🤝</h1>
 
 
 
-<h3 align="left" align="center" style="color: #4D4D4D; font-family: calibri;">📜 The Latest Experiences:</h3>
-
  <img
       src="https://s31.picofile.com/file/8474119300/blue.png"
       alt="أNext"
       width="18"
       height="18"
-    /> [Joodi.me](https://joodi.me/)
-
- ✔ [Mini University Details App](https://github.com/MiladJoodi/Coursera_News_App) - Next.js , Tailwind.css and Clerk for auth.
-
- ✔ [Job Finder App](https://github.com/MiladJoodi/Job_Finder_React_js_Tailwind_css) - React.js & Tailwind css
-
-  ✔ [Online Glocery Store](https://github.com/MiladJoodi/Online_Glocery_Store_Next.js_Tailwind_Strapi) - Full-stack Online Grocery Store app using Next.js, Strapi, Tailwind css & Shadcn Ui.
- 
- ✔ [Restaurant Food Delivery App](https://restaurant-food-delivery-app.vercel.app/) - Typescript, Next js & Tailwind css.
- 
- ✔ [Doctor Appointment Booking App](https://doctor-appointment-booking-coral.vercel.app/) - Next.js & Tailwind css.
- 
- ✔ [Real E-State Website](https://real-estate-theta-gray.vercel.app/) - Typescript, Next.js & Tailwind css.
-
- ✔ [ECommerce Pizza Website](https://e-commerce-pizza-website.vercel.app/) - Next.js & Tailwind css.
-
- ✔ [Highly Responsive Website](https://highly-responsive-website.vercel.app/) - React js & Tailwind css.
-
- ✔ [Responsive Portfolio](https://portfolio-2-plum-eta.vercel.app/) - Next.js, Tailwind & Aceternity.
-
- ✔ [Explore Anime](https://anime-nextjs-blond.vercel.app/) - Next.js SSR with Server Actions, Infinite Scroll & Framer Motion.
+    /> [View All Projects](https://joodi.me/projects)
 
 
 
