@@ -1,90 +1,23 @@
 
 
+# About Me
 
-<kbd><img src="https://media.licdn.com/dms/image/D4D16AQHqB2b0E4ciSQ/profile-displaybackgroundimage-shrink_350_1400/0/1710932720163?e=1716422400&v=beta&t=s5-Q4Pj5q04cxtQk9sr56fVIhQxP5Rq4E7Mr1E6gnwM" /></kbd>
+A self taught Web Developer who enjoys creating content on web develop and Front-End. \
+Sharing what I learn as I learn it to help and motivate others is what keeps me going. \
+I am on a journey of self-discovery, self-learning, and simple living and I'd love for you to join me.
+I'm glad you found me and I can't wait to connect!!
 
-
-<h1 align="center" style="color: #4D4D4D; font-family: calibri; font-size: 2.5em;">
-Howdy 👋 I'm Joodi 🤝</h1> 
-
-
-<h3 align="center" align="center" style="color: #4D4D4D; font-family: calibri; font-size: 1.5em;">A Web Developer with agog appetite of Coding!</h3> 
-
-
-![](https://komarev.com/ghpvc/?username=miladjoodi&color=blue)
-
-
-
+<h3>Skills</h3>
 <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=miladjoodi&show_icons=true&locale=en&layout=compact"
-    alt="Miladjoodi"
-  />
-</p>
-
-
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=miladjoodi&"
-    alt="miladjoodi"
-  />
-</p>
-
-
-
-
- <img
-      src="https://s31.picofile.com/file/8474119300/blue.png"
-      alt="أNext"
-      width="18"
-      height="18"
-    /> [View All Projects](https://joodi.me/projects)
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="mailto:miladjoodi1@gmail.com" target="blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"
-      alt="miladjoodi"
-      height="27"
-      width="34"
-  /></a>
-  <a href="https://twitter.com/milad_joodi" target="blank"
-    ></a>
-  <a
-    href="https://www.linkedin.com/in/miladjoodi/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/miladjoodi/"
-      height="30"
-      width="40"
-  /></a>    
-
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
 <a href="https://www.typescriptlang.org/">
     <img
       src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3521774-2945272.png?f=webp"
-      alt="أNext"
+      alt="ts"
       width="40"
       height="40"
     />
   </a>
-  
+
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://s30.picofile.com/file/8473042000/nextjs.png"
@@ -93,8 +26,7 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="27"
     />
   </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://camo.githubusercontent.com/d764e0d1b0bb6fc6e65157b3c98b9e203a13a17390309fad633406c3324dbfb2/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667"
       alt="react"
@@ -102,7 +34,6 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="40"
     />
   </a>
-
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img
       src="https://whatthelogo.com/storage/logos/redux-270508.png"
@@ -110,7 +41,6 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="40"
     />
     </a>
-    
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -118,7 +48,6 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="40"
     />
   </a>
-
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
   <img
     src="https://mui.com/static/logo.png"
@@ -147,9 +76,8 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="35"
     />
   </a>
-
   
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png"
       alt="bootstrap"
@@ -157,9 +85,7 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="34"
     />
   </a>
-</a>
-
-<a href="https://www.javascript.com/">
+  <a href="https://www.javascript.com/">
 <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
   alt="javascript"
@@ -167,8 +93,6 @@ Howdy 👋 I'm Joodi 🤝</h1>
   height="40"
 />
 </a>
-
-
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -185,8 +109,7 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="40"
     />
     </a>
-
-  <a href="https://brand.jquery.org">
+     <a href="https://brand.jquery.org">
     <img
       src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jquery_logo_icon_167804.png"
       width="35"
@@ -202,8 +125,7 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="43"
     />
     </a>
-
-  <a href="https://www.figma.com/c">
+     <a href="https://www.figma.com/c">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png"
       alt="css3"
@@ -220,14 +142,9 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="38"
     />
     </a>
-
-  
-
-
 </p>
 
 <p>
-
 <a href="https://strapi.io/">
     <img
       src="https://s30.picofile.com/file/8473142968/strapi.png"
@@ -285,9 +202,7 @@ Howdy 👋 I'm Joodi 🤝</h1>
   </a>
 </p>
 
-
-
-<h3 align="left">Experience working with:</h3>
+<h3>Experience working with:</h3>
 <p align="left">
 
   <a href="https://react.i18next.com/">
@@ -363,7 +278,7 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="38"
     />
   </a>
-   <a href="https://kinde.com/">
+  <a href="https://kinde.com/">
     <img
       src="https://s31.picofile.com/file/8474203634/kindde.jpg"
       width="60"
@@ -388,8 +303,8 @@ Howdy 👋 I'm Joodi 🤝</h1>
   <a href="https://www.embla-carousel.com/">
     <img
       src="https://www.embla-carousel.com/static/embla-logo-light-theme-blur-db7093b8d7d20cb8c2429e3f6e05156a.svg"
-      width="35"
-      height="35"
+      width="38"
+      height="38"
     />
   </a>
      <a href="https://ui.shadcn.com/">
@@ -408,26 +323,68 @@ Howdy 👋 I'm Joodi 🤝</h1>
       height="40"
     />
   </a>
+    <a href="https://swiperjs.com/">
+    <img
+      src="https://swiperjs.com/images/swiper-logo.svg"
+      width="35"
+      height="35"
+    />
+  </a>
   <a href="https://www.framer.com/motion/">
     <img
       src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png"
-      width="37"
-      height="37"
+      width="34"
+      height="34"
     />
   </a>
   <a href="https://docusaurus.io/">
     <img
-      src="https://docusaurus.io/img/docusaurus.svg"
-      width="37"
-      height="40"
+      src="https://camo.githubusercontent.com/21b4f633bdf74b9bcb372669da2adf0779f21986a581e6bb997767eb07cb005d/68747470733a2f2f646f63757361757275732e696f2f696d672f646f63757361757275732e737667"
+      width="38"
+      height="38"
     />
   </a>
-  
-  
-  
+
 </p>
 
 
+<h3>The Latest Experiences:</h3>
+
+ ✔ [My Latest Projects and Experiences](https://joodi.me/projects)
 
 
 
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="mailto:miladjoodi1@gmail.com" target="blank"
+    ><img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"
+      alt="miladjoodi"
+      height="27"
+      width="34"
+  /></a>
+  <a href="https://twitter.com/milad_joodi" target="blank"
+    ></a>
+  <a
+    href="https://www.linkedin.com/in/miladjoodi/"
+    target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="https://www.linkedin.com/in/miladjoodi/"
+      height="30"
+      width="40"
+  /></a>    
+  <a
+    href="http://github.com/miladjoodi"
+    target="blank"
+    ><img
+      align="center"
+      src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
+      alt="http://github.com/miladjoodi"
+      height="35"
+      width="35"
+  /></a>   
+</p>
