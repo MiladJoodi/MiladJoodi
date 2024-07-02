@@ -246,13 +246,6 @@ Howdy 👋 I'm Joodi 🤝</h1>
     />
     </a>
 
-<a href="https://expressjs.com/">
-    <img
-      src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png"
-      width="40"
-      height="40"
-    />
-    </a>
 
 <a href="https://www.prisma.io/">
     <img
