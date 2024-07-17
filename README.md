@@ -1,8 +1,13 @@
 
 
 <h3 style="color: gray; font-family: calibri; font-size: 1.4em;">
-Howdy 👋 I'm Joodi 🤝 <br> A Web Developer with agog appetite of Coding. <br>
+Howdy 👋 I'm Joodi 🤝 <br>
+<span style="color: gray; font-family: calibri; font-size: 0.7em;">
+A Web Developer with agog appetite of Coding.
+</span>
+
 </h3>
+
 
 <p>
 From the day i wrote my first line of code i knew i was hooked. my passion for programming lead me to master problem solving, ability to lean quickly and always stay on top new technologies. I am looking for the right oppotunity to develp my career. Below you will find my recent project that showcase my skills in Front End development.
