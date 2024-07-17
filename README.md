@@ -1,8 +1,8 @@
 
 
-<h3 style="color: gray; font-family: calibri; font-size: 1.4em;">
+<h3 style="color: gray; font-family: calibri;">
 Howdy 👋 I'm Joodi 🤝 <br>
-<span style="color: gray; font-family: calibri; font-size: 0.7em;">
+<span style="color: gray; font-family: calibri; font-size: 0.9em;">
 A Web Developer with agog appetite of Coding.
 </span>
 
