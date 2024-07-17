@@ -7,41 +7,31 @@
 Howdy 👋 I'm Joodi 🤝</h1> 
 
 
-<h3 align="center" align="center" style="color: #4D4D4D; font-family: calibri; font-size: 1.5em;">A Web Developer with agog appetite of Coding.</h3> 
+<h3 align="center" align="center" style="color: gray; font-family: calibri; font-size: 1.5em;">A Web Developer with agog appetite of Coding.</h3> 
 
-
-![](https://komarev.com/ghpvc/?username=miladjoodi&color=blue)
-
-
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=miladjoodi&show_icons=true&locale=en&layout=compact"
-    alt="Miladjoodi"
-  />
+<h3 style="color: gray; font-family: calibri; font-size: 1.4em;">
+Howdy 👋 I'm Joodi 🤝 <br> A Web Developer with agog appetite of Coding. <br>
+</h3>
+From the day i wrote my first line of code i knew i was hooked. my passion for programming lead me to master problem solving, ability to lean quickly and always stay on top new technologies. I am looking for the right oppotunity to develp my career. Below you will find my recent project that showcase my skills in Front End development.
 </p>
 
+ 
+Here are some things you should know about me:
 
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=miladjoodi&"
-    alt="miladjoodi"
-  />
+🔭 I work with TypeScript, React.js Next.js, Tailwind CSS ... <br>
+🌱 I'm constantly learning and improving my skills in web development. <br>
+💼 I always strive to deliver high-quality code and user experiences. <br>
+What I Do. <br>
+💻 I create web applications with a focus on user experience and performance. <br>
 </p>
-
-
-
-
 
  ✔ [My Latest Projects and Experiences](https://joodi.me/projects)
 
 
 
-<h3 align="left">Connect with me:</h3>
-
+<h3>Get in Touch</h3> 
+<p>Feel free to contact me if you have questions, want to collaborate, or chat about web development.
+</p>
 <p align="left">
   <a href="mailto:miladjoodi1@gmail.com" target="blank"
     ><img
@@ -65,6 +55,9 @@ Howdy 👋 I'm Joodi 🤝</h1>
   /></a>    
 
 </p>
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
