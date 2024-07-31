@@ -60,15 +60,6 @@ What I Do. <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<a href="https://socket.io/">
-    <img
-      src="https://socket.io/images/logo.svg"
-      alt="socket io"
-      width="40"
-      height="40"
-    />
-  </a>
-
 <a href="https://www.typescriptlang.org/">
     <img
       src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3521774-2945272.png?f=webp"
@@ -226,6 +217,15 @@ What I Do. <br>
       src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"
       width="48"
       height="48"
+    />
+  </a>
+
+  <a href="https://socket.io/">
+    <img
+      src="https://socket.io/images/logo.svg"
+      alt="socket io"
+      width="40"
+      height="40"
     />
   </a>
 
