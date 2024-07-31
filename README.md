@@ -214,9 +214,9 @@ What I Do. <br>
 
 <a href="https://www.docker.com/">
     <img
-      src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"
+      src="https://s32.picofile.com/file/8477977150/docker.png"
       width="48"
-      height="48"
+      height="35"
     />
   </a>
 
