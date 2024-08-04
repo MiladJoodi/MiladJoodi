@@ -18,7 +18,12 @@ My professional journey is driven by a commitment to crafting high-quality, effi
 🔹 Technical Expertise:
 
 Front-End : **TypeScript, Next.js, React.js, Tailwind CSS**\
-Back-End : **Node.js, Express.js**
+Back-End : **Node.js, Express, Strapi**
+
+Expertise in developing User Interface and RESTful APIs.\
+Proficient in creating dynamic, responsive, and user-centric Front-End applications.
+
+
 
 </p>
 
@@ -27,8 +32,9 @@ Here are some things you should know about me:
 
 🔸  I'm constantly learning and improving my skills in web development. <br>
 🔸 I always strive to deliver high-quality code and user experiences. <br>
+What I Do. <br>
 🔸 Expertise in developing User Interface and RESTful APIs.\
-🔸 Proficient in creating dynamic, responsive, and user-centric Front-End applications.\
+🔸 Proficient in creating dynamic, responsive, and user-centric Front-End applications. <br>
 🔸 I create web applications with a focus on user experience and performance. <br>
 </p>
 
@@ -222,7 +228,39 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
 
 <p>
 
-<a href="https://www.docker.com/">
+<a href="https://nodejs.org/">
+    <img
+      src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"
+      width="40"
+      height="45"
+    />
+  </a>
+
+  <a href="https://www.prisma.io/">
+    <img
+      src="https://s31.picofile.com/file/8472136242/prisma.jpg"
+      width="35"
+      height="40"
+    />
+    </a>
+    
+<a href="https://expressjs.com/">
+    <img
+      src="https://seekvectors.com/files/download/234b110fb32958f68f318e13c7a0610e.png"
+      width="100"
+      height="27"
+    />
+  </a>
+  
+  <a href="https://strapi.io/">
+    <img
+      src="https://s30.picofile.com/file/8473142968/strapi.png"
+      width="41"
+      height="41"
+    />
+  </a>
+  
+  <a href="https://www.docker.com/">
     <img
       src="https://s32.picofile.com/file/8477977150/docker.png"
       width="48"
@@ -236,14 +274,6 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
       alt="socket io"
       width="40"
       height="40"
-    />
-  </a>
-
-<a href="https://strapi.io/">
-    <img
-      src="https://s30.picofile.com/file/8473142968/strapi.png"
-      width="41"
-      height="41"
     />
   </a>
   
@@ -262,16 +292,6 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
       height="45"
     />
     </a>
-
-
-<a href="https://www.prisma.io/">
-    <img
-      src="https://s31.picofile.com/file/8472136242/prisma.jpg"
-      width="35"
-      height="40"
-    />
-    </a>
-    
 
   <a href="https://mongoosejs.com/docs/">
     <img
@@ -430,8 +450,3 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
   
   
 </p>
-
-
-
-
-
