@@ -32,7 +32,6 @@ Here are some things you should know about me:
 
 🔸  I'm constantly learning and improving my skills in web development. <br>
 🔸 I always strive to deliver high-quality code and user experiences. <br>
-What I Do. <br>
 🔸 Expertise in developing User Interface and RESTful APIs.\
 🔸 Proficient in creating dynamic, responsive, and user-centric Front-End applications.\
 🔸 I create web applications with a focus on user experience and performance. <br>
