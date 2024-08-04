@@ -18,7 +18,7 @@ My professional journey is driven by a commitment to crafting high-quality, effi
 🔹 Technical Expertise:
 
 Front-End : **TypeScript, Next.js, React.js, Tailwind CSS**\
-Back-End : **Node.js, Express, Strapi**
+Back-End : **Node.js, Express.js, Strapi**
 
 </p>
 
