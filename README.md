@@ -241,7 +241,7 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
 <a href="https://expressjs.com/">
     <img
       src="https://seekvectors.com/files/download/234b110fb32958f68f318e13c7a0610e.png"
-      width="100"
+      width="110"
       height="27"
     />
   </a>
