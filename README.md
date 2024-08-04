@@ -93,15 +93,15 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
       src="https://camo.githubusercontent.com/d764e0d1b0bb6fc6e65157b3c98b9e203a13a17390309fad633406c3324dbfb2/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667"
       alt="react"
       width="40"
-      height="40"
+      height="38"
     />
   </a>
 
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img
       src="https://whatthelogo.com/storage/logos/redux-270508.png"
-      width="40"
-      height="40"
+      width="38"
+      height="38"
     />
     </a>
     
