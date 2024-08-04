@@ -20,11 +20,6 @@ My professional journey is driven by a commitment to crafting high-quality, effi
 Front-End : **TypeScript, Next.js, React.js, Tailwind CSS**\
 Back-End : **Node.js, Express, Strapi**
 
-Expertise in developing User Interface and RESTful APIs.\
-Proficient in creating dynamic, responsive, and user-centric Front-End applications.
-
-
-
 </p>
 
 <p> 
@@ -32,13 +27,12 @@ Here are some things you should know about me:
 
 🔸  I'm constantly learning and improving my skills in web development. <br>
 🔸 I always strive to deliver high-quality code and user experiences. <br>
-What I Do. <br>
-🔸 Expertise in developing User Interface and RESTful APIs.\
+🔸 Expertise in developing User Interface and RESTful APIs. <br>
 🔸 Proficient in creating dynamic, responsive, and user-centric Front-End applications. <br>
 🔸 I create web applications with a focus on user experience and performance. <br>
 </p>
 
- ✔ [My Latest Projects and Experiences](https://joodi.me/projects)
+ ✔ [**My Latest Projects and Experiences**](https://joodi.me/projects)
 
 
 
@@ -450,3 +444,8 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
   
   
 </p>
+
+
+
+
+
