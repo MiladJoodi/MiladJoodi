@@ -9,26 +9,42 @@ A Web Developer with agog appetite of Coding</span>
 
 
 <p>
-From the day I wrote my first line of code i knew I was hooked. my passion for programming lead me to master problem solving, ability to lean quickly and always stay on top new technologies. I am looking for the right oppotunity to develp my career. Below you will find my recent project that showcase my skills in Front End development.
+
+I am a dedicated Front-End Developer with a strong foundation in Javascript, coupled with hands-on experience in Typescript & Next.js. 
+
+Over the past 3 years, I’ve honed my skills in designing and developing web applications and optimizing deployment pipelines.
+My professional journey is driven by a commitment to crafting high-quality, efficient solutions and a passion for leveraging cutting-edge technologies to solve real-world problems.
+
+🔹 Technical Expertise:
+
+Front-End : **TypeScript, Next.js, React.js, Tailwind CSS**\
+Back-End : **Node.js, Express, Strapi**
+
+Expertise in developing User Interface and RESTful APIs.\
+Proficient in creating dynamic, responsive, and user-centric Front-End applications.
+
+
+
 </p>
 
 <p> 
 Here are some things you should know about me:
 
-🔭 I work with TypeScript, React.js Next.js, Tailwind CSS ... <br>
-🌱 I'm constantly learning and improving my skills in web development. <br>
-💼 I always strive to deliver high-quality code and user experiences. <br>
+🔸  I'm constantly learning and improving my skills in web development. <br>
+🔸 I always strive to deliver high-quality code and user experiences. <br>
 What I Do. <br>
-💻 I create web applications with a focus on user experience and performance. <br>
+🔸 Expertise in developing User Interface and RESTful APIs.\
+🔸 Proficient in creating dynamic, responsive, and user-centric Front-End applications.
+🔸 I create web applications with a focus on user experience and performance. <br>
 </p>
 
  ✔ [My Latest Projects and Experiences](https://joodi.me/projects)
 
 
 
-<h3>Get in Touch</h3> 
-<p>Feel free to contact me if you have questions, want to collaborate, or chat about web development.
-</p>
+📈 **Let’s Connect** : I’m always eager to discuss new opportunities, collaborate on challenging projects, and share knowledge about technology and development. 
+Feel free to contact me if you have questions, want to collaborate, or chat about web development.
+
 <p align="left">
   <a href="mailto:miladjoodi1@gmail.com" target="blank"
     ><img
