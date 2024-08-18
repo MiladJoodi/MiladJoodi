@@ -81,10 +81,10 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
   
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://s30.picofile.com/file/8473042000/nextjs.png"
-      alt="أNext"
+      src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg"
+      alt="Next"
       width="80"
-      height="27"
+      height="40"
     />
   </a>
 
