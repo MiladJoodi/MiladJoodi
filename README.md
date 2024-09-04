@@ -39,6 +39,9 @@ Here are some things you should know about me:
 📈 **Let’s Connect** : I’m always eager to discuss new opportunities, collaborate on challenging projects, and share knowledge about technology and development. 
 Feel free to contact me if you have questions, want to collaborate, or chat about web development.
 
+🛡 **License** : All my open-source projects are released under the [<u>MIT License</u>](https://opensource.org/license/MIT)
+. You are free to use, modify, and distribute my work as long as you include proper attribution.
+
 <p align="left">
   <a href="mailto:miladjoodi1@gmail.com" target="blank"
     ><img
