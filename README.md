@@ -93,10 +93,10 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://en.m.wikipedia.org/wiki/File:React-icon.svg"
+      src="https://pricod.com/wp-content/uploads/2024/05/React-pricod-1.webp"
       alt="react"
-      width="40"
-      height="38"
+      width="45"
+      height="45"
     />
   </a>
 
