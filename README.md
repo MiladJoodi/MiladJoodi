@@ -93,7 +93,7 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://camo.githubusercontent.com/d764e0d1b0bb6fc6e65157b3c98b9e203a13a17390309fad633406c3324dbfb2/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667"
+      src="https://en.m.wikipedia.org/wiki/File:React-icon.svg"
       alt="react"
       width="40"
       height="38"
