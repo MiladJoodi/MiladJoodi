@@ -39,20 +39,23 @@ Here are some things you should know about me:
 📈 **Let’s Connect** : I’m always eager to discuss new opportunities, collaborate on challenging projects, and share knowledge about technology and development. 
 Feel free to contact me if you have questions, want to collaborate, or chat about web development.
 
-🛡 **License** : All my open-source projects are released under the [<u>MIT License</u>](https://opensource.org/license/MIT)
-. You are free to use, modify, and distribute my work as long as you include proper attribution.
-
 <p align="left">
-  <a href="mailto:miladjoodi1@gmail.com" target="blank"
+     <a href="https://medium.com/@MiladJoodi" target="blank"
     ><img
       align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"
+      src="https://static-00.iconduck.com/assets.00/dev-to-icon-256x256-xj3juxr1.png"
       alt="miladjoodi"
-      height="27"
-      width="34"
+      height="40"
+      width="40"
   /></a>
-  <a href="https://twitter.com/milad_joodi" target="blank"
-    ></a>
+  <a href="https://medium.com/@MiladJoodi" target="blank"
+    ><img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png"
+      alt="miladjoodi"
+      height="21"
+      width="106"
+  /></a>
   <a
     href="https://www.linkedin.com/in/miladjoodi/"
     target="blank"
@@ -62,13 +65,20 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
       alt="https://www.linkedin.com/in/miladjoodi/"
       height="30"
       width="40"
-  /></a>    
-
+  /></a>
+   <a href="mailto:miladjoodi1@gmail.com" target="blank"
+    ><img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"
+      alt="miladjoodi"
+      height="27"
+      width="34"
+  /></a>
 </p>
 
 
-
-
+🛡 **License** : All my open-source projects are released under the [<u>MIT License</u>](https://opensource.org/license/MIT)
+. You are free to use, modify, and distribute my work as long as you include proper attribution.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
