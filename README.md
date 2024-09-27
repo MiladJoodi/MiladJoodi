@@ -40,7 +40,7 @@ Here are some things you should know about me:
 Feel free to contact me if you have questions, want to collaborate, or chat about web development.
 
 <p align="left">
-     <a href="https://medium.com/@MiladJoodi" target="blank"
+     <a href="https://dev.to/joodi" target="blank"
     ><img
       align="center"
       src="https://static-00.iconduck.com/assets.00/dev-to-icon-256x256-xj3juxr1.png"
@@ -453,12 +453,6 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
       height="40"
     />
   </a>
-  
-  
+ 
   
 </p>
-
-
-
-
-
