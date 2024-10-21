@@ -234,7 +234,13 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
 </p>
 
 <p>
-
+<a href="https://www.selenium.dev/">
+    <img
+      src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=471,h=454,fit=crop/YbNagBQV3yhnygp1/selenium_logo-AMqnQ6x9vBhNLEz9.png"
+      width="40"
+      height="40"
+    />
+  </a>
 <a href="https://nodejs.org/">
     <img
       src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"
