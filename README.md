@@ -12,7 +12,7 @@ A Web Developer with agog appetite of Coding</span>
 
 I am a dedicated Front-End Developer with a strong foundation in Javascript, coupled with hands-on experience in Typescript & Next.js. 
 
-Over the past 3 years, I’ve honed my skills in designing and developing web applications and optimizing deployment pipelines.
+Over the past 4 years, I’ve honed my skills in designing and developing web applications and optimizing deployment pipelines.
 My professional journey is driven by a commitment to crafting high-quality, efficient solutions and a passion for leveraging cutting-edge technologies to solve real-world problems.
 
 🔹 Technical Expertise:
