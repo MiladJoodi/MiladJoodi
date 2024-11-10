@@ -25,11 +25,11 @@ Back-End : **Node.js, Express.js, Strapi, Prisma**
 <p> 
 Here are some things you should know about me:
 
-🔸  I'm constantly learning and improving my skills in web development. <br>
-🔸 I always strive to deliver high-quality code and user experiences. <br>
-🔸 Expertise in developing User Interface and RESTful APIs. <br>
-🔸 Proficient in creating dynamic, responsive, and user-centric Front-End applications. <br>
-🔸 I create web applications with a focus on user experience and performance. <br>
+●  I'm constantly learning and improving my skills in web development. <br>
+● I always strive to deliver high-quality code and user experiences. <br>
+● Expertise in developing User Interface and RESTful APIs. <br>
+● Proficient in creating dynamic, responsive, and user-centric Front-End applications. <br>
+● I create web applications with a focus on user experience and performance. <br>
 </p>
 
  ✔ [**My Latest Projects and Experiences**](https://joodi.me/projects)
