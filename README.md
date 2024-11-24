@@ -463,10 +463,4 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
   
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MiladJoodi&"
-    alt="miladjoodi"
-  />
-</p>
+
