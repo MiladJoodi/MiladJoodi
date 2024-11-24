@@ -7,13 +7,7 @@ A Web Developer with agog appetite of Coding</span>
 
 </h3>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MiladJoodi&"
-    alt="miladjoodi"
-  />
-</p>
+
 <p>
 
 I am a dedicated Front-End Developer with a strong foundation in Javascript, coupled with hands-on experience in Typescript & Next.js. 
@@ -467,4 +461,12 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
   </a>
  
   
+</p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MiladJoodi&"
+    alt="miladjoodi"
+  />
 </p>
