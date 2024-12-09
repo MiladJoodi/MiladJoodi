@@ -57,7 +57,7 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
       width="106"
   /></a>
   <a
-    href="https://www.linkedin.com/in/miladjoodi/"
+    href="https://www.linkedin.com/in/joodi/"
     target="blank"
     ><img
       align="center"
