@@ -48,7 +48,7 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
       height="40"
       width="40"
   /></a>
-  <a href="https://medium.com/@MiladJoodi" target="blank"
+  <a href="https://medium.com/@Joodi" target="blank"
     ><img
       align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png"
