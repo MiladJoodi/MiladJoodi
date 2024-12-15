@@ -10,10 +10,9 @@ A Web Developer with agog appetite of Coding.</span>
 
 <p>
 
-I am a dedicated Front-End Developer with a strong foundation in Javascript, coupled with hands-on experience in Typescript & Next.js. 
+As a MERN Stack Developer, I specialize in building user-centric web applications with a focus on performance and scalability. With a strong foundation in JavaScript and experience with React, Node.js, Express, and MongoDB, I have recently expanded my expertise to include Next.js and TypeScript.
 
-Over the past 4 years, I’ve honed my skills in designing and developing web applications and optimizing deployment pipelines.
-My professional journey is driven by a commitment to crafting high-quality, efficient solutions and a passion for leveraging cutting-edge technologies to solve real-world problems.
+Over the past few years, I've refined my ability to develop clean, maintainable code that adapts to the needs of both users and teams. I’m always eager to improve my skills and explore new technologies, and I’d be grateful for any support or guidance along this journey as I continue to grow and refine my craft.
 
 🔹 Technical Expertise:
 
