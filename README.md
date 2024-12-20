@@ -248,19 +248,19 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
     />
   </a>
 
-  <a href="https://www.prisma.io/">
-    <img
-      src="https://s31.picofile.com/file/8472136242/prisma.jpg"
-      width="35"
-      height="40"
-    />
-    </a>
-    
-<a href="https://expressjs.com/">
+  <a href="https://expressjs.com/">
     <img
       src="https://seekvectors.com/files/download/234b110fb32958f68f318e13c7a0610e.png"
       width="110"
       height="27"
+    />
+    </a>
+    
+<a href="https://www.prisma.io/">
+    <img
+      src="https://s31.picofile.com/file/8472136242/prisma.jpg"
+      width="35"
+      height="40"
     />
   </a>
   
