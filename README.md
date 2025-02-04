@@ -194,7 +194,7 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
 
   <a href="https://brand.jquery.org">
     <img
-      src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jquery_logo_icon_167804.png"
+      src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2945023.png"
       width="35"
       height="40"
     />
@@ -464,7 +464,7 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
   </a>
   <a href="https://www.framer.com/motion/">
     <img
-      src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png"
+      src="https://cdn-b.saashub.com/images/app/service_logos/61/059da0b06357/large.png?1683444404"
       width="37"
       height="37"
     />
