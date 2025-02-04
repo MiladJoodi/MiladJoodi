@@ -321,6 +321,9 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
   </a>
 </p>
 
+
+<h3 align="left">Experience working with:</h3>
+
 <p>
 <a href="https://www.npmjs.com/package/zod">
     <img
@@ -339,9 +342,6 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
   </a>
 </p>
 
-
-
-<h3 align="left">Experience working with:</h3>
 <p align="left">
 
   <a href="https://react.i18next.com/">
@@ -476,7 +476,7 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
       height="40"
     />
   </a>
- s
+ 
   
 </p>
 
