@@ -1,42 +1,32 @@
+### Howdy 👋 I'm Joodi 🤝  
+*A Web Developer with a passion for coding.*
 
+---
 
-<h3 style="color: gray; font-family: calibri;">
-Howdy 👋 I'm Joodi 🤝 <br>
-<span style="color: gray; font-family: calibri; font-size: 0.9em;">
-A Web Developer with agog appetite of Coding</span>
+As a **MERN Stack Developer**, I build user-friendly web applications with a focus on performance and scalability. I have a strong foundation in **JavaScript** and hands-on experience with **React, Node.js, Express, and MongoDB**. Recently, I've expanded my skill set to include **Next.js and TypeScript**.
 
-</h3>
+Over the years, I've refined my ability to write clean, maintainable code that serves both users and development teams. I'm always eager to learn, grow, and explore new technologies. If you have any insights or guidance, I’d love to hear from you!
 
+### 🔹 Tech Stack:
 
-<p>
+- **Front-End:** TypeScript, Next.js, React.js, Tailwind CSS  
+- **Back-End:** Node.js, Express.js, Strapi, Prisma
 
-As a MERN Stack Developer, I specialize in building user-centric web applications with a focus on performance and scalability. With a strong foundation in JavaScript and experience with React, Node.js, Express, and MongoDB, I have recently expanded my expertise to include Next.js and TypeScript.
+---
 
-Over the past few years, I've refined my ability to develop clean, maintainable code that adapts to the needs of both users and teams. I’m always eager to improve my skills and explore new technologies, and I’d be grateful for any support or guidance along this journey as I continue to grow and refine my craft.
+### 📌 A Few Things About Me:
 
-🔹 Technical Expertise:
+- I'm constantly learning and refining my skills.
+- I strive to write high-quality, maintainable code.
+- I specialize in UI development and RESTful API design.
+- I build dynamic, responsive, and user-focused applications.
+- Performance and user experience are my top priorities.
 
-Front-End : **TypeScript, Next.js, React.js, Tailwind CSS**\
-Back-End : **Node.js, Express.js, Strapi, Prisma**
+✔ **[My Latest Projects & Experiences](https://joodi.me/projects)**
+---
 
-</p>
-
-<p> 
-Here are some things you should know about me:
-
--  I'm constantly learning and improving my skills in web development. <br>
--  I always strive to deliver high-quality code and user experiences. <br>
--  Expertise in developing User Interface and RESTful APIs. <br>
--  Proficient in creating dynamic, responsive, and user-centric Front-End applications. <br>
--  I create web applications with a focus on user experience and performance. <br>
-</p>
-
- ✔ [**My Latest Projects and Experiences**](https://joodi.me/projects)
-
-
-
-📈 **Let’s Connect** : I’m always eager to discuss new opportunities, collaborate on challenging projects, and share knowledge about technology and development. 
-Feel free to contact me if you have questions, want to collaborate, or chat about web development.
+### 📈 Let's Connect!
+I’m always open to new opportunities, collaborations, and tech discussions. Feel free to reach out!
 
 <p align="left">
      <a href="https://dev.to/joodi" target="blank"
@@ -75,9 +65,10 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
   /></a>
 </p>
 
+---
 
-🛡 **License** : All my open-source projects are released under the [<u>MIT License</u>](https://opensource.org/license/MIT)
-. You are free to use, modify, and distribute my work as long as you include proper attribution.
+### 🛡 License:
+All my open-source projects are released under the [MIT License](https://opensource.org/license/MIT). Feel free to use, modify, and share my work with proper attribution.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -480,11 +471,8 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
   
 </p>
 
+---
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MiladJoodi&"
-    alt="miladjoodi"
-  />
-</p>
+  ### 🏆 GitHub Stats:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiladJoodi&)
