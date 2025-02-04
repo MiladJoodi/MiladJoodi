@@ -297,9 +297,9 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
     />
     </a>
     
-<a href="https://www.mongodb.com/">
+<a href="https://d3js.org/">
     <img
-      src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png"
+      src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-freebies-pack-logos-icons-1175137.png"
       width="45"
       height="45"
     />
@@ -317,6 +317,24 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
       src="https://raw.githubusercontent.com/colinhacks/zod/HEAD/logo.svg"
       width="38"
       height="38"
+    />
+  </a>
+</p>
+
+<p>
+<a href="https://www.npmjs.com/package/zod">
+    <img
+      src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png"
+      width="42"
+      height="42"
+    />
+  </a>
+  
+  <a href="https://www.tiny.cloud/">
+    <img
+      src="https://cmscritic.com/ms-content/uploads/2023/08/tinymce-icon.png"
+      width="42"
+      height="42"
     />
   </a>
 </p>
@@ -458,7 +476,7 @@ Feel free to contact me if you have questions, want to collaborate, or chat abou
       height="40"
     />
   </a>
- 
+ s
   
 </p>
 
