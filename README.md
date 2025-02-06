@@ -5,7 +5,7 @@
 
 As a **MERN Stack Developer**, I build user-friendly web applications with a focus on performance and scalability. I have a strong foundation in **JavaScript** and hands-on experience with **React, Node.js, Express, and MongoDB**. Recently, I've expanded my skill set to include **Next.js and TypeScript**.
 
-Over the years, I've refined my ability to write clean, maintainable code that serves both users and development teams. I'm always eager to learn, grow, and explore new technologies. If you have any insights or guidance, I’d love to hear from you!
+Over the years, I've refined my ability to write clean, maintainable code that serves both users and development teams. I'm always eager to learn, grow, and explore new technologies. If you have any insights or guidance, I’d love to hear from you!.
 
 ### 🔹 Tech Stack:
 
