@@ -473,6 +473,3 @@ All my open-source projects are released under the [MIT License](https://opensou
 
 ---
 
-  ### 🏆 GitHub Stats:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiladJoodi&)
