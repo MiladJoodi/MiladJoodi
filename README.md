@@ -316,7 +316,7 @@ All my open-source projects are released under the [MIT License](https://opensou
 <h3 align="left">Experience working with:</h3>
 
 <p>
-<a href="https://www.npmjs.com/package/zod">
+<a href="https://d3js.org/">
     <img
       src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png"
       width="42"
