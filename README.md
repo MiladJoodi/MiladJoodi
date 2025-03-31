@@ -148,7 +148,7 @@ All my open-source projects are released under the [MIT License](https://opensou
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
       alt="bootstrap"
       width="42"
       height="34"
@@ -417,9 +417,16 @@ All my open-source projects are released under the [MIT License](https://opensou
   </a>
   <a href="https://ui.aceternity.com/">
     <img
-      src="https://ui.aceternity.com/_next/image?url=%2Flogo.png&w=64&q=75"
+      src="https://ui.aceternity.com/logo.png"
       width="35"
-      height="37"
+      height="35"
+    />
+  </a>
+   <a href="https://react-hook-form.com/">
+    <img
+      src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg"
+      width="39"
+      height="39"
     />
   </a>
 
@@ -472,4 +479,3 @@ All my open-source projects are released under the [MIT License](https://opensou
 </p>
 
 ---
-
