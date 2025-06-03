@@ -10,7 +10,7 @@ Over the years, I've refined my ability to write clean, maintainable code that s
 ### 🔹 Tech Stack:
 
 - **Front-End:** TypeScript, Next.js, React.js, Tailwind CSS  
-- **Back-End:** Node.js, Express.js, Strapi, Prisma
+- **Back-End:** Node.js, Express.js, Strapi, Prisma ORM
 
 ---
 
