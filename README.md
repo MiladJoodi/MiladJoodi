@@ -1,5 +1,5 @@
 ### Howdy 👋 I'm Joodi 🤝  
-*A Web Developer with a passion for codingو*
+*A Web Developer with a passion for coding*
 
 ---
 
