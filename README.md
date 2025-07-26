@@ -9,7 +9,7 @@ I focus on writing **clear**, **reliable** code that helps both **users** and **
 
 #### Front-End:  
 **Next.js, React.js, TypeScript, JavaScript**  
-Tailwind CSS, Shadcn, React Query, Zustand, Framer Motion  
+Tailwind CSS, Shadcn, React Query, Zustand, Framer Motion, PWA  
 D3.js, Chart.js, i18next, Material UI, Styled Components  
 React Hook Form, Zod, Axios, Regex, Tiny.cloud, Docusaurus  
 WordPress, Sass, Less, Bootstrap, HTML, CSS
