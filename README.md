@@ -15,7 +15,6 @@ React Hook Form, Zod, Axios, Regex, Tiny.cloud, Docusaurus
 WordPress, Sass, Less, Bootstrap, HTML, CSS
 
 
----
 
 #### Back-End & Tools:
 **Node.js, Express.js, Prisma ORM, Drizzle ORM**  
