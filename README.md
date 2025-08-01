@@ -37,6 +37,11 @@ Docker, Selenium Test
 
 ---
 
+### 🛡 License:
+All my open-source projects are released under the [MIT License](https://opensource.org/license/MIT). Feel free to use, modify, and share my work with proper attribution.
+
+---
+
 ### 📈 Let's Connect!
 I’m always open to new opportunities, collaborations, and tech discussions. Feel free to reach out!
 
@@ -76,11 +81,5 @@ I’m always open to new opportunities, collaborations, and tech discussions. Fe
       width="34"
   /></a>
 </p>
-
----
-
-### 🛡 License:
-All my open-source projects are released under the [MIT License](https://opensource.org/license/MIT). Feel free to use, modify, and share my work with proper attribution.
-
 
 
