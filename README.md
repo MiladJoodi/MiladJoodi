@@ -20,7 +20,7 @@ WordPress, Sass, Less, Bootstrap, HTML, CSS
 **Node.js, Express.js, Prisma ORM, Drizzle ORM**  
 MongoDB, Mongoose, PostgreSQL  
 Socket.io, JWT, Clerk, Kinde, Acternity  
-Docker, Selenium Test  
+Docker, Selenium Test, Jest, React Testing Library  
 
 ---
 
