@@ -19,7 +19,7 @@ WordPress, Sass, Less, Bootstrap, HTML, CSS
 #### Back-End & Tools:
 **Node.js, Express.js, Prisma ORM, Drizzle ORM**  
 MongoDB, Mongoose, PostgreSQL  
-Socket.io, JWT, Clerk, Kinde, Acternity  
+Socket.io, JWT, Clerk, Kinde, Acternity, Next-Auth  
 Docker, Selenium Test, Jest, React Testing Library  
 
 ---
