@@ -36,11 +36,6 @@ Selenium Testing, Jest, React Testing Library
 
 ---
 
-### 🛡 License:
-All my open-source projects are released under the [MIT License](https://opensource.org/license/MIT). Feel free to use, modify, and share my work with proper attribution.
-
----
-
 ### 📈 Let's Connect!
 I’m always open to new opportunities, collaborations, and tech discussions. Feel free to reach out!
 
