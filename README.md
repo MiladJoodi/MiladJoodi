@@ -13,7 +13,7 @@ Tailwind CSS, Shadcn, React Query, Zustand, Framer Motion, PWA
 D3.js, Chart.js, i18next, Material UI, Styled Components  
 React Hook Form, Zod, Axios, Regex, Tiny.cloud, Docusaurus  
 WordPress, Sass, Less, Bootstrap, HTML, CSS  
-Socket.io, JWT,NextAuth, Clerk, Kinde
+Socket.io, JWT, NextAuth, Clerk, Kinde
 
 
 #### Back-End & Tools:
