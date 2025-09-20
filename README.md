@@ -66,7 +66,7 @@ I’m always open to new opportunities, collaborations, and tech discussions. Fe
       height="30"
       width="40"
   /></a>
-   <a href="mailto:miladjoodi1@gmail.com" target="blank"
+   <a href="mailto:MiladJoodi1@gmail.com" target="blank"
     ><img
       align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"
