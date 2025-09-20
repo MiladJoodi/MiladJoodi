@@ -11,8 +11,8 @@ I focus on writing **clear**, **reliable** code that helps both **users** and **
 **Next.js, React.js, TypeScript, JavaScript**  
 Tailwind CSS, Shadcn, React Query, Zustand, Framer Motion, PWA  
 D3.js, Chart.js, i18next, Material UI, Styled Components  
-React Hook Form, Zod, Axios, Regex, TinyMCE (Tiny.cloud), Docusaurus  
-WordPress, Sass, Less, Bootstrap, HTML, CSS  
+React Hook Form, Zod, Axios, Regex, TinyMCE (Tiny.cloud)
+Docusaurus, WordPress, Sass, Less, Bootstrap, HTML, CSS  
 Socket.io, JWT, NextAuth, Clerk, Kinde
 
 
@@ -26,8 +26,8 @@ Selenium Tests, Jest, React Testing Library
 ### 📌 What I Care About:
 
 - I create smooth and responsive user interfaces.
-- I write clean, maintainable code
-- Always learning and improving
+- I write clean, maintainable code.
+- Always learning and improving.
 
 ---
 
