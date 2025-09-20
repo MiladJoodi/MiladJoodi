@@ -11,7 +11,7 @@ I focus on writing **clear**, **reliable** code that helps both **users** and **
 **Next.js, React.js, TypeScript, JavaScript**  
 Tailwind CSS, Shadcn, React Query, Zustand, Framer Motion, PWA  
 D3.js, Chart.js, i18next, Material UI, Styled Components  
-React Hook Form, Zod, Axios, Regex, Tiny.cloud, Docusaurus  
+React Hook Form, Zod, Axios, Regex, TinyMCE (Tiny.cloud), Docusaurus  
 WordPress, Sass, Less, Bootstrap, HTML, CSS  
 Socket.io, JWT, NextAuth, Clerk, Kinde
 
@@ -19,7 +19,7 @@ Socket.io, JWT, NextAuth, Clerk, Kinde
 #### Back-End & Tools:
 **Node.js, Express.js, Prisma ORM, Drizzle ORM**  
 MongoDB, Mongoose, PostgreSQL, Docker  
-Selenium Testing, Jest, React Testing Library  
+Selenium Tests, Jest, React Testing Library  
 
 ---
 
