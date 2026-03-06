@@ -31,7 +31,7 @@ Selenium Tests, Jest, React Testing Library
 
 ---
 
-###  📢 [My Latest Projects & Experiences](https://joodi.me/projects)
+###  📢 [My Latest Projects & Experiences](https://github.com/MiladJoodi?tab=repositories)
 ### 📰 [Subscribe to my LinkedIn Newsletter](https://www.linkedin.com/newsletters/7288134016199778306/)
 
 ---
