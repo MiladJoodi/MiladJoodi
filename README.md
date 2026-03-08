@@ -18,7 +18,7 @@ Socket.io, JWT, NextAuth, Clerk, Kinde
 
 #### Back-End & Tools:
 **Node.js, Express.js, Prisma ORM, Drizzle ORM**  
-MongoDB, Mongoose, PostgreSQL, Docker  
+MongoDB, Mongoose, PostgreSQL  
 Selenium Tests, Jest, React Testing Library  
 
 ---
