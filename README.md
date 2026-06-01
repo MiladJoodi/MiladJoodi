@@ -43,9 +43,9 @@ I’m always open to new opportunities, collaborations, and tech discussions. Fe
      <a href="https://dev.to/joodi" target="blank"
     ><img
       align="center"
-      src="https://s6.uupload.ir/files/dev_c7ch.png"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo984PiUXhgzPOLEi36HtPesNBrVhBmGzoUg&s"
       alt="miladjoodi"
-      height="35"
+      height="45"
       width="55"
   /></a>
   <a href="https://medium.com/@Joodi" target="blank"
