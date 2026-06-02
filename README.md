@@ -3,8 +3,6 @@
 
 ---
 
-I focus on writing **clear**, **reliable** code that helps both **users** and **teams** work better. I’m always **curious** and **excited** to learn new tools and improve my skills.
-
 ### 🔹 Tech Stack:
 
 #### Front-End:  
@@ -23,13 +21,6 @@ Selenium Tests, Jest, React Testing Library
 
 ---
 
-### 📌 What I Care About:
-
-- I create smooth and responsive user interfaces.
-- I write clean, maintainable code.
-- Always learning and improving.
-
----
 
 ###  📢 [My Latest Projects & Experiences](https://github.com/MiladJoodi?tab=repositories)
 ### 📰 [Subscribe to my LinkedIn Newsletter](https://www.linkedin.com/newsletters/7288134016199778306/)
