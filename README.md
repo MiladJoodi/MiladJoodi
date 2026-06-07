@@ -1,4 +1,4 @@
-### Howdy 👋 I'm Joodi 🤝  
+### Howdy 👋 I'm Joodi 🤝 
 *I build fast, clean, user-first web apps using Next.js, TypeScript, and related technologies.*
 
 ---
