@@ -5,7 +5,7 @@
 
 ### 🔹 Tech Stack:
 
-#### Front-End:  
+#### Front-End: 
 **Next.js, React.js, TypeScript, JavaScript**  
 Tailwind CSS, Shadcn, React Query, Zustand, Framer Motion, PWA  
 D3.js, Chart.js, i18next, Material UI, Styled Components  
