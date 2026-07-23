@@ -42,10 +42,10 @@ I’m always open to new opportunities, collaborations, and tech discussions. Fe
   <a href="https://medium.com/@Joodi" target="blank"
     ><img
       align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmKe9spKI6TtQFR2HisaT_JS6KxE4BCdpe_t-Tuc5KQg&s=10"
       alt="miladjoodi"
-      height="21"
-      width="106"
+      height="45"
+      width="55"
   /></a>
   <a
     href="https://www.linkedin.com/in/joodi/"
