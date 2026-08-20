@@ -5,19 +5,17 @@
 
 ### 🔹 Tech Stack:
 
-#### Front-End: 
-**Next.js, React.js, TypeScript, JavaScript**  
-Tailwind CSS, Shadcn, React Query, Zustand, Framer Motion, PWA  
-D3.js, Chart.js, i18next, Material UI, Styled Components  
-React Hook Form, Zod, Axios, Regex, TinyMCE (Tiny.cloud),
-Docusaurus, WordPress, Sass, Less, Bootstrap, HTML, CSS  
+#### Front-End:
+**Next.js, React.js, TypeScript, JavaScript**
+Tailwind CSS, Shadcn/UI, React Query, Zustand, Framer Motion, PWA
+D3.js, Chart.js, i18next, React Hook Form, Zod
+TinyMCE (Tiny.cloud), Docusaurus, WordPress, Sass
 Socket.io, JWT, NextAuth, Clerk, Kinde
 
-
 #### Back-End & Tools:
-**Node.js, Express.js, Prisma ORM, Drizzle ORM**  
-MongoDB, Mongoose, PostgreSQL  
-Selenium Tests, Jest, React Testing Library  
+**Node.js, Express.js, Prisma ORM, Drizzle ORM**
+MongoDB, Mongoose, PostgreSQL
+Jest, React Testing Library, Selenium, Playwright
 
 ---
 
