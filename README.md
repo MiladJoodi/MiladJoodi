@@ -13,9 +13,9 @@ TinyMCE (Tiny.cloud), Docusaurus, WordPress, Sass
 Socket.io, JWT, NextAuth, Clerk, Kinde  
 
 #### Back-End & Tools:
-**Node.js, Express.js, Prisma ORM, Drizzle ORM**
-MongoDB, Mongoose, PostgreSQL
-Jest, React Testing Library, Selenium, Playwright
+**Node.js, Express.js, Prisma ORM, Drizzle ORM**  
+MongoDB, Mongoose, PostgreSQL  
+Jest, React Testing Library, Selenium, Playwright  
 
 ---
 
