@@ -6,11 +6,11 @@
 ### 🔹 Tech Stack:
 
 #### Front-End:
-**Next.js, React.js, TypeScript, JavaScript**
-Tailwind CSS, Shadcn/UI, React Query, Zustand, Framer Motion, PWA
-D3.js, Chart.js, i18next, React Hook Form, Zod
-TinyMCE (Tiny.cloud), Docusaurus, WordPress, Sass
-Socket.io, JWT, NextAuth, Clerk, Kinde
+**Next.js, React.js, TypeScript, JavaScript**  
+Tailwind CSS, Shadcn/UI, React Query, Zustand, Framer Motion, PWA  
+D3.js, Chart.js, i18next, React Hook Form, Zod  
+TinyMCE (Tiny.cloud), Docusaurus, WordPress, Sass  
+Socket.io, JWT, NextAuth, Clerk, Kinde  
 
 #### Back-End & Tools:
 **Node.js, Express.js, Prisma ORM, Drizzle ORM**
