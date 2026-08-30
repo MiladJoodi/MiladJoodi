@@ -9,7 +9,7 @@
 **Next.js, React.js, TypeScript, JavaScript**  
 Tailwind CSS, Shadcn/UI, React Query, Zustand, Framer Motion, PWA  
 D3.js, Chart.js, i18next, React Hook Form, Zod  
-TinyMCE (Tiny.cloud), Docusaurus, WordPress, Sass  
+TinyMCE, Docusaurus, WordPress, Sass  
 Socket.io, JWT, NextAuth, Clerk, Kinde  
 
 #### Back-End & Tools:
