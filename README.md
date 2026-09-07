@@ -7,13 +7,13 @@
 
 #### Front-End:
 **Next.js, React.js, TypeScript, JavaScript** 
-Tailwind CSS, Shadcn/UI, React Query, Zustand
+Tailwind CSS, Shadcn/UI, React Query, Zustand 
 React Hook Form, Zod, i18next
 
 #### Back-End & Tools:
-**Node.js, REST API, Prisma ORM, Drizzle ORM**
-PostgreSQL, MongoDB
-Jest, React Testing Library, Playwright
+**Node.js, REST API, Prisma ORM, Drizzle ORM** 
+PostgreSQL, MongoDB 
+Jest, React Testing Library, Playwright 
 
 ---
 
