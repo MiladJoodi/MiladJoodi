@@ -1,7 +1,6 @@
 ### Howdy 👋 I'm Joodi 🤝
-*Frontend Developer specializing in React, Next.js, and TypeScript.*
 
-I build fast, scalable, and user-focused web applications with a strong focus on clean architecture, performance, and maintainable code.
+*Frontend Developer specializing in React, Next.js, and TypeScript, building fast, scalable, and user-focused web applications with a strong focus on clean architecture, performance, and maintainable code.*
 
 ---
 
