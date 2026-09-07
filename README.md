@@ -30,41 +30,10 @@ Jest, React Testing Library, Selenium, Playwright
 ### 📈 Let's Connect!
 I’m always open to new opportunities, collaborations, and tech discussions. Feel free to reach out!
 
-<p align="left">
-     <a href="https://dev.to/joodi" target="blank"
-    ><img
-      align="center"
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo984PiUXhgzPOLEi36HtPesNBrVhBmGzoUg&s"
-      alt="miladjoodi"
-      height="45"
-      width="55"
-  /></a>
-  <a href="https://medium.com/@Joodi" target="blank"
-    ><img
-      align="center"
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmKe9spKI6TtQFR2HisaT_JS6KxE4BCdpe_t-Tuc5KQg&s=10"
-      alt="miladjoodi"
-      height="45"
-      width="55"
-  /></a>
-  <a
-    href="https://www.linkedin.com/in/joodi/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/miladjoodi/"
-      height="30"
-      width="40"
-  /></a>
-   <a href="mailto:MiladJoodi1@gmail.com" target="blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"
-      alt="miladjoodi"
-      height="27"
-      width="34"
-  /></a>
-</p>
+
+### 📈 Let's Connect!
+I’m always open to new opportunities, collaborations, and tech discussions. Feel free to reach out!
+
+[DEV.to](https://dev.to/joodi) · [Medium](https://medium.com/@Joodi) · [LinkedIn](https://www.linkedin.com/in/joodi/) · [Email](mailto:MiladJoodi1@gmail.com)
 
 
