@@ -8,7 +8,7 @@
 
 #### Front-End:
 **Next.js, React.js, TypeScript, JavaScript** 
-Tailwind CSS, Shadcn/UI, React Query, Zustand 
+Tailwind CSS, Shadcn/UI, React Query, Zustand, 
 React Hook Form, Zod, i18next
 
 #### Back-End & Tools:
