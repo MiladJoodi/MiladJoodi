@@ -30,10 +30,6 @@ Jest, React Testing Library, Selenium, Playwright
 ### 📈 Let's Connect!
 I’m always open to new opportunities, collaborations, and tech discussions. Feel free to reach out!
 
-
-### 📈 Let's Connect!
-I’m always open to new opportunities, collaborations, and tech discussions. Feel free to reach out!
-
 [DEV.to](https://dev.to/joodi) · [Medium](https://medium.com/@Joodi) · [LinkedIn](https://www.linkedin.com/in/joodi/) · [Email](mailto:MiladJoodi1@gmail.com)
 
 
