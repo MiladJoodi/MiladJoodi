@@ -1,6 +1,6 @@
 ### Howdy 👋 I'm Joodi 🤝
 
-*I build modern web applications with a focus on performance, usability, and clean code.*
+*I build modern web applications with a focus on performance, usability, and clean code.* 
 
 ---
 
