@@ -1,32 +1,32 @@
-### Howdy 👋 I'm Joodi 🤝
+# Howdy 👋 I'm Joodi
 
-*I build modern web applications with a focus on performance, usability, and clean code.*
+**Frontend Developer** focused on building modern, performant, and user-friendly web applications.
 
----
+### Tech Stack
 
-### 🔹 Tech Stack:
+**Frontend**
+Next.js · React · TypeScript · JavaScript · Tailwind CSS · shadcn/ui
 
-#### Front-End:
-**Next.js, React.js, TypeScript, JavaScript** 
-Tailwind CSS, Shadcn/UI, React Query, Zustand 
-React Hook Form, Zod, i18next
+**State & Data**
+React Query · Zustand · REST APIs · WebSockets
 
-#### Back-End & Tools:
-**Node.js, REST API, Prisma ORM, Drizzle ORM** 
-PostgreSQL, MongoDB 
-Jest, React Testing Library, Playwright 
+**Backend**
+Node.js · Express · Prisma · Drizzle · PostgreSQL · MongoDB
 
----
+**Forms & Testing**
+React Hook Form · Zod · Jest · React Testing Library · Selenium
 
+### Projects
 
-###  📢 [My Latest Projects & Experiences](https://github.com/MiladJoodi?tab=repositories)
-### 📰 My LinkedIn Newsletters
-- 🧩 [FrontEnd Family](https://www.linkedin.com/newsletters/frontend-family-%F0%9F%A7%A9-7288134016199778306/)
-- 📢 [AI Finds](https://www.linkedin.com/newsletters/ai-finds-%F0%9F%93%A2-7484960831105908737/)
+I build and experiment with developer tools, web applications, and open-source projects.
 
----
+→ [View my projects](https://github.com/MiladJoodi?tab=repositories)
 
-### 📈 Let's Connect!
-I’m always open to new opportunities, collaborations, and tech discussions. Feel free to reach out!
+### Writing
 
-[DEV.to](https://dev.to/joodi) · [Medium](https://medium.com/@Joodi) · [LinkedIn](https://www.linkedin.com/in/joodi/) · [Email](mailto:MiladJoodi1@gmail.com)
+* [FrontEnd Family](https://www.linkedin.com/newsletters/frontend-family-%F0%9F%A7%A9-7288134016199778306/)
+* [AI Finds](https://www.linkedin.com/newsletters/ai-finds-%F0%9F%93%A2-7484960831105908737/)
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/joodi/) · [DEV.to](https://dev.to/joodi) · [Medium](https://medium.com/@Joodi) · [Email](mailto:MiladJoodi1@gmail.com)
