@@ -1,32 +1,85 @@
-# Howdy 👋 I'm Joodi
+### Howdy 👋 I'm Joodi 🤝
 
-**Frontend Developer** focused on building modern, performant, and user-friendly web applications.
+*I build fast, clean, user-first web apps using Next.js, TypeScript, and related technologies.*
 
-### Tech Stack
+🌐 [**Visit my website**](https://miladjoodi.github.io/)
 
-**Frontend**
-Next.js · React · TypeScript · JavaScript · Tailwind CSS · shadcn/ui
+---
 
-**State & Data**
-React Query · Zustand · REST APIs · WebSockets
+I focus on writing **clear**, **reliable** code that helps both **users** and **teams** work better. I’m always **curious** and **excited** to learn new tools and improve my skills.
 
-**Backend**
-Node.js · Express · Prisma · Drizzle · PostgreSQL · MongoDB
+### 🔹 Tech Stack:
 
-**Forms & Testing**
-React Hook Form · Zod · Jest · React Testing Library · Selenium
+#### Front-End:
 
-### Projects
+**Next.js, React.js, TypeScript, JavaScript**
+Tailwind CSS, Shadcn, React Query, Zustand, Framer Motion, PWA
+D3.js, Chart.js, i18next, Material UI, Styled Components
+React Hook Form, Zod, Axios, Regex, Tiny.cloud, Docusaurus
+WordPress, Sass, Less, Bootstrap, HTML, CSS
+Socket.io, JWT, NextAuth, Clerk, Kinde
 
-I build and experiment with developer tools, web applications, and open-source projects.
+#### Back-End & Tools:
 
-→ [View my projects](https://github.com/MiladJoodi?tab=repositories)
+**Node.js, Express.js, Prisma ORM, Drizzle ORM**
+MongoDB, Mongoose, PostgreSQL, Docker
+Selenium Testing, Jest, React Testing Library
 
-### Writing
+---
 
-* [FrontEnd Family](https://www.linkedin.com/newsletters/frontend-family-%F0%9F%A7%A9-7288134016199778306/)
-* [AI Finds](https://www.linkedin.com/newsletters/ai-finds-%F0%9F%93%A2-7484960831105908737/)
+### 📌 What I Care About:
 
-### Connect
+* I create smooth and responsive user interfaces.
+* I write clean, maintainable code.
+* Always learning and improving.
 
-[LinkedIn](https://www.linkedin.com/in/joodi/) · [DEV.to](https://dev.to/joodi) · [Medium](https://medium.com/@Joodi) · [Email](mailto:MiladJoodi1@gmail.com)
+---
+
+### 📢 [My Latest Projects & Experiences](https://joodi.me/projects)
+
+### 📰 [Subscribe to my LinkedIn Newsletter](https://www.linkedin.com/newsletters/7288134016199778306/)
+
+---
+
+### 📈 Let's Connect!
+
+I’m always open to new opportunities, collaborations, and tech discussions. Feel free to reach out!
+
+<p align="left">
+  <a href="https://dev.to/joodi" target="blank">
+    <img
+      align="center"
+      src="https://s6.uupload.ir/files/dev_c7ch.png"
+      alt="miladjoodi"
+      height="35"
+      width="55"
+    />
+  </a>
+  <a href="https://medium.com/@Joodi" target="blank">
+    <img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png"
+      alt="miladjoodi"
+      height="21"
+      width="106"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/joodi/" target="blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="miladjoodi"
+      height="30"
+      width="40"
+    />
+  </a>
+  <a href="mailto:miladjoodi1@gmail.com" target="blank">
+    <img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"
+      alt="miladjoodi"
+      height="27"
+      width="34"
+    />
+  </a>
+</p>
