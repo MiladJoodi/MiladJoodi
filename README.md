@@ -6,35 +6,32 @@
 
 ---
 
-### Tech Stack:
+I focus on writing **clear**, **reliable** code that helps both **users** and **teams** work better. I’m always **curious** and **excited** to learn new tools and improve my skills.
 
-**Frontend**
+### 🔹 Tech Stack:
 
-React.js · Next.js · TypeScript · JavaScript
+#### Front-End:
 
-**UI & Styling**
+**Next.js, React.js, TypeScript, JavaScript**
+Tailwind CSS, Shadcn, React Query, Zustand, Framer Motion, PWA
+D3.js, Chart.js, i18next, Material UI, Styled Components
+React Hook Form, Zod, Axios, Regex, Tiny.cloud, Docusaurus
+WordPress, Sass, Less, Bootstrap, HTML, CSS
+Socket.io, JWT, NextAuth, Clerk, Kinde
 
-Tailwind CSS · shadcn/ui · Sass · Framer Motion
+#### Back-End & Tools:
 
-**State & Data**
+**Node.js, Express.js, Prisma ORM, Drizzle ORM**
+MongoDB, Mongoose, PostgreSQL, Docker
+Selenium Testing, Jest, React Testing Library
 
-React Query · Zustand · REST APIs · WebSockets · Socket.io
+---
 
-**Backend**
+### 📌 What I Care About:
 
-Node.js · Express.js · PostgreSQL · MongoDB · Prisma · Drizzle
-
-**Auth & Forms**
-
-Auth.js · OAuth · JWT · React Hook Form · Zod
-
-**Testing**
-
-Jest · React Testing Library · Selenium
-
-**Other**
-
-PWA · i18next · D3.js · Chart.js
+* I create smooth and responsive user interfaces.
+* I write clean, maintainable code.
+* Always learning and improving.
 
 ---
 
