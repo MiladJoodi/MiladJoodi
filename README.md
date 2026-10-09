@@ -23,7 +23,7 @@ Jest · React Testing Library · Selenium
 
 ---
 
-### Feel free to connect!
+### Feel free to connect:
 
 [Dev.to](https://dev.to/joodi) · [Medium](https://medium.com/@Joodi) · [LinkedIn](https://www.linkedin.com/in/joodi/) · [Email](mailto:MiladJoodi1@gmail.com)
 
