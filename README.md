@@ -23,9 +23,9 @@ Jest · React Testing Library · Selenium
 
 ---
 
-### 📈 Let's Connect!
+### Feel free to connect!
 
-[Dev.to](https://dev.to/joodi) · [Medium](https://medium.com/@Joodi) · [LinkedIn](https://www.linkedin.com/in/joodi/) · [Email](mailto:miladjoodi1@gmail.com)
+[Dev.to](https://dev.to/joodi) · [Medium](https://medium.com/@Joodi) · [LinkedIn](https://www.linkedin.com/in/joodi/) · [Email](mailto:MiladJoodi1@gmail.com)
 
 [FrontEnd Family 🧩](https://www.linkedin.com/newsletters/frontend-family-%F0%A0%A7%A9-7288134016199778306/) · [AI Finds 📢](https://www.linkedin.com/newsletters/ai-finds-%F0%A0%93%A2-7484960831105908737/)
 
